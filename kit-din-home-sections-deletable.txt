@@ -1,6 +1,12 @@
+				<li>
+					<a href="">
+						<img src="img/ " alt="">
+						<p> </p>
+					</a>
+				</li>
+				<li>
+
 QUESTION for JAKE
-
-
 DONE-The plans that TH makes for jQuery are huge leaps in understanding. Wtf?
 -When I shrink my browser to its smallest width, my gallery messes up. 
 	-Do I need to apply a new media query or forget about it because screens likely won't be that small?
