@@ -4,7 +4,7 @@
 						<p> </p>
 					</a>
 				</li>
-				<li>
+				
 
 QUESTION for JAKE
 DONE-The plans that TH makes for jQuery are huge leaps in understanding. Wtf?
