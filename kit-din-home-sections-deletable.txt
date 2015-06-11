@@ -1,3 +1,20 @@
+				<li>
+					<a href="">
+						<img src="img/ " alt="">
+						<p> </p>
+					</a>
+				</li>
+				
+
+QUESTION for JAKE
+DONE-The plans that TH makes for jQuery are huge leaps in understanding. Wtf?
+-When I shrink my browser to its smallest width, my gallery messes up. 
+	-Do I need to apply a new media query or forget about it because screens likely won't be that small?
+-Incorporate jQuery in the menu? Where else?
+-Best way to do captions so they match.
+-Can I tag images for future JS/jQ, e.g. "lamps," "knives," etc.
+-What is the BB&B mobile site using for its menu?
+
 /******************
 KITCHEN WRAPPER DIV
 /******************
